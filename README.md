@@ -1,6 +1,7 @@
 # EficazFramework.OpenBanking
 
-![Work](https://img.shields.io/badge/coding-comming%20soon-red)
+![Licence](https://img.shields.io/static/v1?label=licence&message=MIT&color=blue&style=flat-square&logo=github&logoColor=white)
+![Work](https://img.shields.io/static/v1?label=coding&message=comming%20soon&color=red&style=flat-square&logo=visualstudiocode&logoColor=white)
 
 Biblioteca contendo métodos para consumo dos serviços de Open Banking de maneira unificada, visando atender o maior número possível de instituições bancárias.
 
