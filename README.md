@@ -1,3 +1,5 @@
+# <p align="center"> ![EficazFramework](Assets/GitHub-HeaderReadme-EF.png)
+
 # EficazFramework.OpenBanking
 
 ![Licence](https://img.shields.io/static/v1?label=licence&message=MIT&color=blue&style=flat-square&logo=github&logoColor=white)
